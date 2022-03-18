@@ -1,0 +1,29 @@
+h1{
+    font-size: 1.7cm;
+    text-transform: capitalize;
+    font-weight: bolder;
+    text-align: center;
+    color: red;
+}
+h3{
+    
+    font-weight: lighter;
+    font-size: medium;
+    text-align: center;
+    color: rgb(80, 82, 224);
+    
+}
+.alpha{
+    color: red;
+    text-decoration: underline;
+
+
+}
+.beta{
+    text-indent: 1em;
+    color: rgb(228, 222, 235);
+    background-color: rgb(172, 168, 168);
+}
+p{
+    text-indent: 3em;
+}
