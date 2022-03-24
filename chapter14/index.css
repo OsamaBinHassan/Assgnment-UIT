@@ -1,0 +1,75 @@
+.sizebut{
+    width: 150px;
+    height: 30px;
+    
+}
+.pad1{
+    padding-right: 100px;
+}
+.pad2{
+    padding-right: 120px;
+}
+.pad3{
+    padding-right: 37px;
+}
+.head1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.ul1{
+    list-style-image: url(img14/icon-plus.png);
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.li2{
+    list-style-image: url(img14/star.png);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 7px;
+}
+.head2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row1{
+    background-color:rgb(113, 188, 238);
+    color:  whitesmoke;
+}
+.tab1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+}
+.row2{
+    background-color:rgb(113, 188, 238);
+    color:  whitesmoke;
+}
+.tab2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+}
+.img1{
+    padding-right: 110px;
+}
+.img2{
+    padding-right: 110px;
+}
+.field1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 1000px;
+}
+.lasbut{
+    margin-top: 10px;
+    margin-left: 270px;
+    background-color: rgb(135, 231, 135);
+    border-radius: 5px;
+}
+.pad0{
+   color: rgb(56, 56, 56);
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}

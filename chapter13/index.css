@@ -1,0 +1,90 @@
+.div1{
+    border-style: double;
+}
+.img1{
+    position: relative;
+    left: 650px;
+}
+
+.lis{
+     display:inline-flex;
+     font-size: x-large;
+    list-style: none;
+    font-family: cambria;
+    /* padding-left: 170px; */
+    
+}
+.li0{
+    padding-right: 120px;
+    
+    
+}
+.li1{
+    padding-left: 130px;
+    padding-right: 120px;
+    color: rgb(228, 168, 89);
+}
+.div2{
+    border-style: groove;
+    border-right: 0px;
+    border-left: 0px;
+    margin-right: 200px;
+    margin-left: 230px;
+    border-color: black;
+}
+.img2{
+    padding-left: 230px;
+    padding-top: 30px;
+}
+.para{
+    font-family: Cambria;
+    font-size: x-large;
+    margin-right: 160px;
+    margin-left: 220px;
+    word-spacing: 46px;
+    margin-top: 40px;
+    
+    
+}
+.b1{
+    font-weight: lighter;
+    padding-left: 30px;
+    
+}
+.b2{
+    font-weight: lighter;
+    padding-left: 70px;
+}
+.b3{
+    font-weight: lighter;
+    padding-left: 120px;
+}
+.b4{
+    font-weight: lighter;
+    padding-left: 160px;
+}
+.b5{
+    font-weight: lighter;
+    padding-left: 55px;
+}
+.b6{
+    font-weight:lighter ;
+    padding-left: 450px;
+}
+.div3{
+    border-style: groove;
+    margin-left: 380px;
+    margin-right: 340px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.foot1{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    word-spacing: 25px;
+    text-align: center;
+}

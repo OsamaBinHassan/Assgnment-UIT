@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <form action="http://www.example.com/subscribe.php" method="get">
+       <p > User Name :<span class="ulu"></span><input  type="text" name="username" size="16" maxlength="25"></p>
+       <p>Password: <span class="ilu"></span><input type="password" name="Password" size="16" maxlength="25"></p>
+       <p>Date of Birth: <span class="uli"></span><input type="date" name="Date of Birth"></p>
+       <p>WEB URL: <span class="ul"></span><input type="url" name="website" size="15" maxlength="300"></p>
+       <p>Address: <span class="ulp"></span><input type="text " size="15" maxlength="100"></p>
+       <p>
+       <label for="city">City : <span class="uln"></span></label>
+       <select name="referrer" id="city">
+       <option value="karachi">karachi</option>
+       <option value="lahore" >Lahore</option>
+    </select>
+    </p>
+    <p>State: <span class="uu"></span><input type="text" size="8" maxlength="30"></p>
+    <p>Zip: <span class="ull"></span><input    size="8" maxlength="30"  ></p>
+    <p >Magzines:<span class="ulb"></span>
+    <select name="Magzines" size="4">   
+    <option value="Newsweek" >Newsweek</option>
+    <option value="Time">Time</option>
+    <option value="Fortune">Fortune</option>
+    <option value="TV Guide">TV Guide</option></select>
+    </p>
+    <div class="noi"><fieldset  >
+        <legend  >Contact details</legend>
+        <label>Email:<br />
+        <input type="text" name="email" /></label><br />
+        <label>Mobile:<br />
+        <input type="text" name="mobile" /></label><br />
+        <label>Telephone:<br />
+        <input type="text" name="telephone" /></label>
+    </fieldset></div>
+    <p>AdditionalComments:</p>
+<textarea name="Aditional Comments" id="" cols="30" rows="7"></textarea>
+<p>Upload Your Profile Picture Here:
+<input type="file" name="file"/><br>
+<span class="elu"></span><input type="submit" value="upload" class="uit"></p>
+
+<input type="button" value="Send your order ">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>Email Address: <input type="text" size="15" maxlength="30"></p>
+<p>Subscription: <input type="radio" name="Choice" value="1 year"  >Yes
+<input type="radio" name="Choice" value="2 year">No
+</p>
+<p><input type="checkbox"> <b>Yes!put me on the list</b> </p>
+
+<br>
+<br>
+<br>
+<input class="iop" type="button" value="subscribe" >
+
+
+    
+
+    </form>
+</body>
+</html>

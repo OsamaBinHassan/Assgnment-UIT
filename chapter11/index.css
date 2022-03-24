@@ -1,0 +1,38 @@
+.hi{
+    background-color:  rgb(228, 228, 240);
+}
+.mainhead{
+    color: #808080;
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sechead{
+    color: rgb(137, 132, 182);
+
+}
+.div2{
+   
+    background-color: #cccaca;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.div3{
+    background-color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.pillow{
+    color: rgb(65, 65, 202);
+    font-size: smaller;
+    padding-left: 10px;
+}
+.pad{
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.itl{
+    color: rgb(170, 112, 3);
+}
