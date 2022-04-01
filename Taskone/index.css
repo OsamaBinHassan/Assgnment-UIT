@@ -1,0 +1,341 @@
+
+
+.ul1{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-right: 1200px;
+    
+}
+.ul2{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-left: 1100px;
+    margin-top: -50px;
+}
+.inp1{
+   margin-top: 25px;
+}
+
+.div1{
+    border-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+}
+.ul3{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-right: 1200px;
+
+}
+.div2{
+    border-style: groove;
+    margin-top: 40px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+.divsec1{
+    /* margin-left: 40px; */
+    position: relative;
+    left:120px;
+    /* right: 300px; */
+}
+.ul4{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-left: 1200px;
+    margin-top: -35px;
+    position: relative;
+    right: 230px;
+
+}
+.imgcom{
+    height: 80px;    
+    position: relative;
+        top: -100px;
+        left: 110px;
+}
+.divsec2{
+    border-right: 0px;
+    border-left: 0px;
+    width: 300px;
+    height: 140px;
+    padding-left: 20px;
+    border-style: groove;
+    margin-right: 1260px;
+    margin-left: 40px;
+    position: relative;
+    top: -210px;
+    right:20px;
+    
+    
+    
+}
+.imglead{
+    height: 80px;    
+    position: relative;
+        top: -100px;
+        left: 110px;
+}
+.divsec3{
+    border-right: 0px;
+    border-left: 0px;
+    width: 300px;
+    height: 140px;
+    position: relative;
+    left: 360px;
+    top: -356px;
+    border-style: groove;
+    margin-right: 1290px;
+    padding-left: 20px;
+}
+.imgdeal{
+    height: 80px;    
+    position: relative;
+        top: -100px;
+        left: 110px;
+}
+.divsec4{
+    width: 300px;
+    height: 140px;
+    position: relative;
+    left: 695px;
+    top: -503px;
+    border-right: 0px;
+    border-left: 0px;
+    border-style: groove;
+    margin-right: 1240px;
+    padding-left: 20px;
+}
+.imgbr{
+    height: 80px;    
+    position: relative;
+        top: -100px;
+        left: 110px;
+}
+.divsec5{
+    width: 300px;
+    height: 140px;
+    position: relative;
+    left: 1030px;
+    top: -649px;
+    border-style: groove;
+    border-right: 0px;
+    border-left: 0px;
+    margin-right: 12750px;
+    padding-left: 10px
+    
+
+}
+.divhead1{
+    justify-content: center;
+}
+.secmain{
+    margin-top: 250px;
+    position: relative;
+    left: 100px;
+}
+.comp{
+    width: 370px;
+    
+}
+.u1{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.u2{
+    display: flex;
+    list-style:disc;
+    justify-content: space-between;  
+}
+.di1{
+    border-style: groove;
+    border-right: 0px;
+    border-left: 0px;
+    /* padding-right: 1200px; */
+    margin-right: 1190px;
+    position: relative;
+    top: -600px;
+    left: 20px;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.div009{
+    border-style: groove;
+    margin-right: 234px;
+    position: relative;
+    top: -1092px;
+    border-right: 0px;
+    border-left: 0px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    margin-left: 430px;
+    padding-left: 30px;
+    /* padding-bottom: -90px; */
+    
+    
+}
+.uo1{
+    display: flex;
+    list-style: none;
+    padding-left: 200px;
+    justify-content: space-between;
+    padding-right: 200px;
+}
+.uo2{
+    display: flex;
+    list-style: none;
+    padding-left: 230px;
+    justify-content: space-between;
+    padding-right: 230px;
+}
+.uo3{
+    display: flex;
+    list-style: disc;
+    padding-left: 310px;
+    justify-content: space-between;
+    padding-right: 310px;
+    position: relative;
+    top: -20px;
+}
+.imgrev{
+    position: relative;
+    left: 160px;
+    width: 600px;
+    height: 302px;
+}
+.but1{
+    height: 20px;
+    width: 40px;
+}
+.but2{
+    height: 20px;
+    width: 40px;
+}
+.but3{
+    height: 20px;
+    width: 40px;
+}
+.but4{
+    height: 20px;
+    width: 40px;
+}
+.but5{
+    height: 20px;
+    width: 40px;
+}
+.divtab{
+    border-style: groove;
+    border-top: 0px;
+    border-bottom: 0px;
+    position: relative;
+    left: 20px;
+    top: -1050px;
+    margin-right: 1200px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: -10px;
+}
+.divtab{
+    border-spacing: 10px;
+}
+.tr11{
+    text-align: justify;
+    border-collapse: collapse;
+    background-color: rgb(176, 255, 230);
+}
+.tr22{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: rgb(220, 255, 244);
+}
+.tr33{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: rgb(220, 255, 244);
+}
+.tr44{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: rgb(220, 255, 244);
+}
+.tr55{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: rgb(220, 255, 244);
+}
+.tr66{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: rgb(220, 255, 244);
+}
+.divim{
+    border-style: groove;
+    border-top: 0px;
+    border-bottom: 0px;
+    position: relative;
+    top: -1486px;
+    left: 430px;
+    margin-right: 1100px;
+    padding-left: 70px;
+}
+.imli{
+    width: 300px;
+    height: 365px;
+}
+.chitim{
+    border-style: groove;
+    border-top: 0px;
+    border-bottom: 0px;
+    position: relative;
+    top: -1900px;
+    left: 925px;
+    margin-right: 1157px;
+}
+.iom{
+    width: 320px;
+    height: 120px;
+    padding-left: 40px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.dtd{
+    border-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+    position: relative;
+    top: -1860px;
+    left: 925px;
+    margin-right:1157px ;
+    padding-left: 20px;
+}
+.todo{
+    padding-left: 80px;
+    padding-bottom: 20px;
+    width: 220px;
+    height: 170px;
+}
+.divlas{
+    border-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+    position: relative;
+    top: -1800px;
+}
+.ulals{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-left: 940px;
+    padding-right: 50px;
+    margin-top: -40px;
+}
+.pii{
+    padding-left: 117px;
+}
